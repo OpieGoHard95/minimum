@@ -1,3 +1,7 @@
+// Coded by Jared Smith
+// Minimum function with a little extra add on at the end
+// Last work was done of Friday
+
 var min = function(x,y) {
   var result = 1
   if (x < y)
